@@ -1,0 +1,25 @@
+{
+  "name": "model-into-packages-by-test2-kamrozzaman",
+  "version": "1.0.0",
+  "description": "Something I want to test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamrozzamaan/test2-model-in-packages.git"
+  },
+  "author": "Kamrozzaman",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.33.0",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "fs": "^0.0.1-security"
+  },
+  "bugs": {
+    "url": "https://github.com/kamrozzamaan/test2-model-in-packages/issues"
+  },
+  "homepage": "https://github.com/kamrozzamaan/test2-model-in-packages#readme"
+}
